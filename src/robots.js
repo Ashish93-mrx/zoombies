@@ -1,0 +1,27 @@
+export const robots = [
+    {
+        id:"01",
+        name:"ultron",
+        email:"thor@gmail.com"
+    },
+    {
+        id:"02",
+        name:"vegeta",
+        email:"vegeta@gmail.com"
+    },
+    {
+        id:"03",
+        name:"ragnarok",
+        email:"thr@gmail.com"
+    },
+    {
+        id:"04",
+        name:"blabla",
+        email:"tr@gmail.com"
+    },
+    {
+        id:"05",
+        name:"bear",
+        email:"tr@gmail.com"
+    }
+]
